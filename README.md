@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Quan from vietnam
+- 👋 Hi, I’m Quan from Vietnam.
 - 👀 I’m interested in learning only programming languages right now.
 - 🌱 I’m currently learning C++, Python and Mathematic.
 - 📫 How to reach me ...
